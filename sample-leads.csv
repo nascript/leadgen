@@ -1,0 +1,11 @@
+name,role,company,domain,email,source,country,industry,score,flags
+John Smith,Software Engineer,TechCorp,techcorp.com,john.smith@techcorp.com,LinkedIn,United States,Technology,85,verified;active
+Sarah Johnson,Marketing Manager,MarketPro,marketpro.com,sarah.johnson@marketpro.com,Website,Canada,Marketing,78,active
+Michael Brown,CEO,StartupXYZ,startupxyz.com,michael@startupxyz.com,Conference,United Kingdom,Technology,92,verified;premium;active
+Emily Davis,Sales Director,SalesCorp,salescorp.com,emily.davis@salescorp.com,Referral,Australia,Sales,88,verified;active
+David Wilson,Product Manager,InnovateLtd,innovateltd.com,david.wilson@innovateltd.com,LinkedIn,Germany,Technology,82,active
+Lisa Anderson,HR Director,PeopleFirst,peoplefirst.com,lisa.anderson@peoplefirst.com,Website,United States,Human Resources,75,verified
+Robert Taylor,CTO,DevSolutions,devsolutions.com,robert.taylor@devsolutions.com,GitHub,Netherlands,Technology,90,verified;premium;active
+Jennifer Martinez,Operations Manager,LogisticsPro,logisticspro.com,jennifer.martinez@logisticspro.com,Trade Show,Spain,Logistics,79,active
+Chris Lee,Designer,CreativeStudio,creativestudio.com,chris.lee@creativestudio.com,Dribbble,South Korea,Design,83,verified;active
+Amanda White,Finance Director,FinanceHub,financehub.com,amanda.white@financehub.com,LinkedIn,United States,Finance,86,verified;premium
