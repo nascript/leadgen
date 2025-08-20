@@ -5,6 +5,14 @@ Sales teams waste time on bad or duplicate contacts. Under a strict 5-hour cap, 
 
 ---
 
+#### Application Screenshots
+
+**Main Dashboard with Lead Generation Interface**
+![Lead Generation Dashboard](1.png)
+
+**Lead Results Table with Filtering and Export Options**
+![Lead Results Table](2.png)
+
 ## What I Built (Dual Approach)
 
 ### 1) Quality-First (depth on data quality)
@@ -160,14 +168,6 @@ A modern, AI-powered lead generation application built with Next.js, TypeScript,
 - **Interactive Tables**: Sortable and filterable lead tables with bulk actions
 - **Smart Filters**: Expandable filter panel with search and quick filters
 - **Loading States**: Beautiful loading indicators and error handling
-
-#### Application Screenshots
-
-**Main Dashboard with Lead Generation Interface**
-![Lead Generation Dashboard](Screenshot%202025-08-20%20at%2011.04.44%20PM.png)
-
-**Lead Results Table with Filtering and Export Options**
-![Lead Results Table](Screenshot%202025-08-20%20at%2011.07.07%20PM.png)
 
 ## Tech Stack
 
